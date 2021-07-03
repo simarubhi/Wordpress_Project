@@ -8,7 +8,7 @@
 - JavaScript
 - JavaScript 3rd party libraries
 - Git version control
-- WordPress CMS (Custom post types, advanced customisation control, search funtionality, blog archives, contact form custom WordPress functions etc.)
+- WordPress CMS (Custom post types, advanced customisation control, search funtionality, blog archives, contact form, custom WordPress functions etc.)
 - PHP
 
 ## Features
